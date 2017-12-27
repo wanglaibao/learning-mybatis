@@ -126,5 +126,6 @@ INSERT INTO `sys_role_privilege`(`role_id`,`privilege_id`) VALUES ('2', '5');
 ---  总结能力
 ---  学习能力
 
+--- Dubbo || fastjson || Druid || Apache RocketMQ || MyCat
 
 --- COC Conversion Over Configuration

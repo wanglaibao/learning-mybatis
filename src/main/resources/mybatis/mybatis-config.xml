@@ -31,5 +31,7 @@
     <mappers>
         <mapper resource="mybatis/CountryMapper.xml"/>
         <mapper resource="mybatis/SysUserMapper.xml"/>
+        <mapper resource="mybatis/SysRoleMapper.xml"/>
+        <mapper resource="mybatis/SysPrivilegeMapper.xml"/>
     </mappers>
 </configuration>
