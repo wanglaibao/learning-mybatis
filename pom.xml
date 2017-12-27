@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.laibao.mybatis3</groupId>
-    <artifactId>learning-mybatis</artifactId>
+    <artifactId>mybatis3-study</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
@@ -88,4 +88,3 @@
         </plugins>
     </build>
 </project>
-
