@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.laibao.mybatis3</groupId>
-    <artifactId>mybatis3-study</artifactId>
+    <artifactId>learning-mybatis3</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
